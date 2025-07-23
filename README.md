@@ -1,2 +1,3 @@
 # CodeCompanion-tr8363424
-Web based discription based app creator that can generate applications through text input,images,files,script or code
+This is an online platform that lets you build and run apps directly in your web browser. It acts as an all-in-one coding environment, eliminating the need to install any software. You can access your projects from any device with an internet connection, and it supports over 50 programming languages.
+​The platform includes AI tools, like an AI Agent, that help with coding, generating code from text descriptions, and debugging. It also allows multiple people to work on the same project at the same time, making it great for collaboration. Once you're done, you can deploy your app with a single click.
